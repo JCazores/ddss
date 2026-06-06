@@ -1,0 +1,2146 @@
+{
+    "report_generated": "2026-05-15T14:19:06.975339",
+    "semester": "Next Semester Forecast",
+    "critical_interventions": [
+        {
+            "StudentID": "OLFU2020-001",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 91.89,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Struggling to cope with academic requirements.",
+                    "solution": "Seek immediate academic support or tutoring.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation.",
+                    "admin_action": "Schedule academic intervention."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-003",
+            "course": "MLS",
+            "year": 3,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Desired program is not available.",
+                    "solution": "Explore similar programs or transfer options.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-004",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-006",
+            "course": "BSA",
+            "year": 2,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Desired program is not available.",
+                    "solution": "Explore similar programs or transfer options."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-007",
+            "course": "MLS",
+            "year": 4,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-010",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Health issues affecting attendance and performance.",
+                    "solution": "Consult school health services.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-011",
+            "course": "BSN",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 94.67,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Struggling to cope with academic requirements.",
+                    "solution": "Seek immediate academic support or tutoring.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible.",
+                    "admin_action": "Schedule academic intervention."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-014",
+            "course": "BS MEDTECH",
+            "year": 4,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-015",
+            "course": "BS CE",
+            "year": 4,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 93.95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-017",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Struggling to cope with academic requirements.",
+                    "solution": "Seek immediate academic support or tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support.",
+                    "admin_action": "Schedule academic intervention."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-020",
+            "course": "BS HACLO",
+            "year": 2,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 93.66,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-021",
+            "course": "BS HACLO",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Good attendance record",
+                    "solution": "Maintain good attendance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-022",
+            "course": "BS HACLO",
+            "year": 1,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 93.81,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-024",
+            "course": "BSIT",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Desired program is not available.",
+                    "solution": "Explore similar programs or transfer options."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-025",
+            "course": "HUMSS",
+            "year": 3,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 94.54,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-026",
+            "course": "BS CE",
+            "year": 4,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 91.06,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-028",
+            "course": "BS ITM TTO",
+            "year": 4,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 90.34,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-029",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 91.35,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-030",
+            "course": "BSN",
+            "year": 2,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (2 levels up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-031",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Struggling to cope with academic requirements.",
+                    "solution": "Seek immediate academic support or tutoring.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation.",
+                    "admin_action": "Schedule academic intervention."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-033",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 91.62,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-035",
+            "course": "BS PHARMA",
+            "year": 1,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Struggling to cope with academic requirements.",
+                    "solution": "Seek immediate academic support or tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible.",
+                    "admin_action": "Schedule academic intervention."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-036",
+            "course": "BS PSYCH",
+            "year": 1,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-037",
+            "course": "BS BIO",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-039",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-040",
+            "course": "BS CS",
+            "year": 4,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (2 levels up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-041",
+            "course": "MLS",
+            "year": 3,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-042",
+            "course": "BSN",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-044",
+            "course": "BSN",
+            "year": 2,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 92.86,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-046",
+            "course": "BS PSYCH",
+            "year": 1,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 78.05,
+            "risk_change": "Escalating (2 levels up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-047",
+            "course": "BS HACLO",
+            "year": 1,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 92.57,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-049",
+            "course": "BS CE",
+            "year": 2,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Struggling to cope with academic requirements.",
+                    "solution": "Seek immediate academic support or tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support.",
+                    "admin_action": "Schedule academic intervention."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-050",
+            "course": "BS HACLO",
+            "year": 4,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 90.62,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-051",
+            "course": "BS CE",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 93.79,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Desired program is not available.",
+                    "solution": "Explore similar programs or transfer options.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-052",
+            "course": "MLS",
+            "year": 3,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 94.68,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-053",
+            "course": "BS CE",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Good attendance record",
+                    "solution": "Maintain good attendance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-054",
+            "course": "MLS",
+            "year": 4,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-055",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 92.3,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Good attendance record",
+                    "solution": "Maintain good attendance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Struggling to cope with academic requirements.",
+                    "solution": "Seek immediate academic support or tutoring.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic intervention."
+                },
+                {
+                    "reason": "Desired program is not available.",
+                    "solution": "Explore similar programs or transfer options."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-058",
+            "course": "BSIHM",
+            "year": 2,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 94.15,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Good attendance record",
+                    "solution": "Maintain good attendance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-059",
+            "course": "BSECE",
+            "year": 4,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Struggling to cope with academic requirements.",
+                    "solution": "Seek immediate academic support or tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support.",
+                    "admin_action": "Schedule academic intervention."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-060",
+            "course": "MLS",
+            "year": 4,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 94.44,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Health issues affecting attendance and performance.",
+                    "solution": "Consult school health services."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-063",
+            "course": "BS CE",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-065",
+            "course": "BS PHARMA",
+            "year": 3,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 90.38,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Struggling to cope with academic requirements.",
+                    "solution": "Seek immediate academic support or tutoring.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible.",
+                    "admin_action": "Schedule academic intervention."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-068",
+            "course": "BSN",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Poor academic performance",
+                    "solution": "Attend review classes and get tutoring.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic counseling session."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition.",
+                    "admin_action": "Call for financial consultation with accounting."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-069",
+            "course": "BS CE",
+            "year": 1,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 95,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Good attendance record",
+                    "solution": "Maintain good attendance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Struggling to cope with academic requirements.",
+                    "solution": "Seek immediate academic support or tutoring.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Schedule academic intervention."
+                },
+                {
+                    "reason": "Health issues affecting attendance and performance.",
+                    "solution": "Consult school health services."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-070",
+            "course": "BS CE",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "High Risk",
+            "predicted_dropout_probability": 94.63,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Student has moved to a different location.",
+                    "solution": "Consider online classes or transferring to a nearby school.",
+                    "admin_action": "Provide guidance on transfer options."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Schedule parent/guardian meeting for intervention."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support."
+                }
+            ]
+        }
+    ],
+    "high_priority_interventions": [
+        {
+            "StudentID": "OLFU2020-002",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 58.97,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Good attendance record",
+                    "solution": "Maintain good attendance.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-005",
+            "course": "BS CE",
+            "year": 2,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 65,
+            "risk_change": "Improving (1 level down)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Health issues affecting attendance and performance.",
+                    "solution": "Consult school health services.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-008",
+            "course": "BS PHARMA",
+            "year": 3,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 65,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-009",
+            "course": "BSITM TTO",
+            "year": 1,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 59.01,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Health issues affecting attendance and performance.",
+                    "solution": "Consult school health services."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-012",
+            "course": "MLS",
+            "year": 3,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 65,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-016",
+            "course": "BSN",
+            "year": 4,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 54.41,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-018",
+            "course": "BS CE",
+            "year": 3,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 61.03,
+            "risk_change": "Improving (1 level down)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Desired program is not available.",
+                    "solution": "Explore similar programs or transfer options.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-019",
+            "course": "BSN",
+            "year": 3,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 52.88,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Health issues affecting attendance and performance.",
+                    "solution": "Consult school health services.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-023",
+            "course": "BSN",
+            "year": 1,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 62.78,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-027",
+            "course": "BSA",
+            "year": 3,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 65,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-032",
+            "course": "BSN",
+            "year": 2,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 50.71,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-034",
+            "course": "BSN",
+            "year": 1,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 65,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-038",
+            "course": "BSN",
+            "year": 2,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 51.38,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Desired program is not available.",
+                    "solution": "Explore similar programs or transfer options."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-043",
+            "course": "BSITM TTO",
+            "year": 2,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 65,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Health issues affecting attendance and performance.",
+                    "solution": "Consult school health services."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-045",
+            "course": "BS PSYCH",
+            "year": 2,
+            "current_risk_level": "High Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 64.38,
+            "risk_change": "Improving (1 level down)",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Health issues affecting attendance and performance.",
+                    "solution": "Consult school health services.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-048",
+            "course": "BSITM TTO",
+            "year": 3,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 65,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Good attendance record",
+                    "solution": "Maintain good attendance.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-056",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 62.41,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-057",
+            "course": "MLS",
+            "year": 3,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 62.32,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Desired program is not available.",
+                    "solution": "Explore similar programs or transfer options.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-061",
+            "course": "BSIT",
+            "year": 3,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 65,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Good attendance record",
+                    "solution": "Maintain good attendance.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan."
+                },
+                {
+                    "reason": "Health issues affecting attendance and performance.",
+                    "solution": "Consult school health services."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-067",
+            "course": "BS IHM HACLO",
+            "year": 3,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 63.21,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Student has transferred to another institution.",
+                    "solution": "Request for transfer documentation."
+                }
+            ]
+        }
+    ],
+    "medium_priority_interventions": [
+        {
+            "StudentID": "OLFU2020-013",
+            "course": "MLS",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 53.79,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-062",
+            "course": "BS PSYCH",
+            "year": 2,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 58.8,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Class schedule conflicts with other responsibilities.",
+                    "solution": "Adjust course schedule if possible."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-064",
+            "course": "MLS",
+            "year": 4,
+            "current_risk_level": "Low Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 47.85,
+            "risk_change": "Escalating (1 level up)",
+            "interventions": [
+                {
+                    "reason": "Good attendance record",
+                    "solution": "Maintain good attendance.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Good academic standing",
+                    "solution": "Maintain good academic performance.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan."
+                },
+                {
+                    "reason": "Personal circumstances impacting studies.",
+                    "solution": "Seek personal counseling support."
+                }
+            ]
+        },
+        {
+            "StudentID": "OLFU2020-066",
+            "course": "BSA",
+            "year": 3,
+            "current_risk_level": "Medium Risk",
+            "predicted_risk_level": "Medium Risk",
+            "predicted_dropout_probability": 49.8,
+            "risk_change": "Stable",
+            "interventions": [
+                {
+                    "reason": "Difficulties in commuting to school.",
+                    "solution": "Explore better transportation options or schedule adjustments.",
+                    "admin_action": "Call for financial consultation with accounting."
+                },
+                {
+                    "reason": "Moderate academic performance",
+                    "solution": "Improve study habits and review lessons regularly.",
+                    "admin_action": "Monitor student and schedule counseling if needed."
+                },
+                {
+                    "reason": "Financial constraints affecting tuition payment.",
+                    "solution": "Apply for financial aid or payment plan.",
+                    "admin_action": "Assess student's transportation challenges."
+                },
+                {
+                    "reason": "Student decided to shift to another course.",
+                    "solution": "Consult academic advisor for proper transition.",
+                    "admin_action": "Monitor academic progress."
+                }
+            ]
+        }
+    ],
+    "summary_statistics": {
+        "total_students": 70,
+        "students_needing_critical_intervention": 46,
+        "students_needing_high_priority_intervention": 20,
+        "students_needing_medium_priority_intervention": 4,
+        "total_at_risk_students": 66
+    }
+}

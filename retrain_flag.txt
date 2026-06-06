@@ -1,0 +1,13 @@
+{
+    "timestamp": "2025-11-07 19:40:48",
+    "year": 2021,
+    "semester": "1",
+    "semester_display": "1st Semester",
+    "table_name": "student_2021_sem_1",
+    "records_processed": 70,
+    "filename": "OLFU2021 1stsem (1).csv",
+    "uploaded_by": "staff1 (testuser1)",
+    "uploaded_by_user_id": "7",
+    "data_quality_status": "perfect",
+    "message": "Ready to retrain model after perfect data upload to student_2021_sem_1 (2021 - 1st Semester) by staff1"
+}

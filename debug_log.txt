@@ -1,0 +1,300 @@
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 75.65 2.37 600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 92.57 2.58 1600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 56.63 3.17 3000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 97.75 1.03 2600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 90.9 2.43 2500
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 60.92 3.77 5800
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 57.24 1.94 3200
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 76.7 2.83 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 72.1 2.15 100
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 86.76 2.41 2900
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 58.98 3.61 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 79.68 3.45 7000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 87.92 2.21 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 64.96 1.15 55500
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 87.24 2.06 42000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 75.65 2.37 600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 92.57 2.58 1600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 56.63 3.17 3000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 97.75 1.03 2600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 90.9 2.43 2500
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 60.92 3.77 5800
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 57.24 1.94 3200
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 76.7 2.83 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 72.1 2.15 100
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 86.76 2.41 2900
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 58.98 3.61 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 79.68 3.45 7000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 87.92 2.21 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 64.96 1.15 55500
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 87.24 2.06 42000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 75.65 2.37 600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 92.57 2.58 1600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 56.63 3.17 3000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 97.75 1.03 2600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 90.9 2.43 2500
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 60.92 3.77 5800
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 57.24 1.94 3200
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 76.7 2.83 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 72.1 2.15 100
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 86.76 2.41 2900
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 58.98 3.61 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 79.68 3.45 7000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 87.92 2.21 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 64.96 1.15 55500
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 87.24 2.06 42000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 75.65 2.37 600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 92.57 2.58 1600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 56.63 3.17 3000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 97.75 1.03 2600
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 90.9 2.43 2500
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 60.92 3.77 5800
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 57.24 1.94 3200
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 76.7 2.83 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 72.1 2.15 100
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 86.76 2.41 2900
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 58.98 3.61 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 79.68 3.45 7000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 87.92 2.21 0
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 64.96 1.15 55500
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Command: C:^\Users^\jeycee^\AppData^\Local^\Programs^\Python^\Python312^\python.exe C:^\xampp1^\htdocs^\SchoolFeesMgSystem-PHP^\predict.py 87.24 2.06 42000
+Output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Running prediction for attendance: 75.65, GPA: 2.37, balance: 600
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 92.57, GPA: 2.58, balance: 1600
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 56.63, GPA: 3.17, balance: 3000
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 97.75, GPA: 1.03, balance: 2600
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 90.9, GPA: 2.43, balance: 2500
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 60.92, GPA: 3.77, balance: 5800
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 57.24, GPA: 1.94, balance: 3200
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 76.7, GPA: 2.83, balance: 0
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 72.1, GPA: 2.15, balance: 100
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 86.76, GPA: 2.41, balance: 2900
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 58.98, GPA: 3.61, balance: 0
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 79.68, GPA: 3.45, balance: 7000
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 87.92, GPA: 2.21, balance: 0
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 64.96, GPA: 1.15, balance: 55500
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 87.24, GPA: 2.06, balance: 42000
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 75.65, GPA: 2.37, balance: 600
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 92.57, GPA: 2.58, balance: 1600
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 56.63, GPA: 3.17, balance: 3000
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 97.75, GPA: 1.03, balance: 2600
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 90.9, GPA: 2.43, balance: 2500
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 60.92, GPA: 3.77, balance: 5800
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 57.24, GPA: 1.94, balance: 3200
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 76.7, GPA: 2.83, balance: 0
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 72.1, GPA: 2.15, balance: 100
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 86.76, GPA: 2.41, balance: 2900
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 58.98, GPA: 3.61, balance: 0
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 79.68, GPA: 3.45, balance: 7000
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 87.92, GPA: 2.21, balance: 0
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 64.96, GPA: 1.15, balance: 55500
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output
+Running prediction for attendance: 87.24, GPA: 2.06, balance: 42000
+Python script output: C:\Users\jeycee\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\xampp1\\htdocs\\SchoolFeesMgSystem-PHP\\predict.py': [Errno 2] No such file or directory
+
+Error in prediction: JSON decode failed or no valid output

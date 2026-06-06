@@ -1,0 +1,15 @@
+{
+    "trigger_timestamp": "2025-11-16 18:41:52",
+    "trigger_type": "auto_upload",
+    "year": 2024,
+    "semester": "1",
+    "semester_display": "1st Semester",
+    "table_name": "student_2024_sem_1",
+    "records_uploaded": 70,
+    "filename": "OLFU2024-1stsem.csv",
+    "uploaded_by": "staff1",
+    "uploaded_by_username": "testuser1",
+    "uploaded_by_user_id": "7",
+    "status": "pending",
+    "message": "Automatic prediction trigger after upload to student_2024_sem_1"
+}

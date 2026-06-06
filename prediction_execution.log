@@ -1,0 +1,131 @@
+2025-11-07 05:07:18 - Prediction triggered for student_2024_sem_1
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: 
+--------------------------------------------------------------------------------
+2025-11-07 05:21:37 - Prediction triggered for student_2021_sem_2
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: 
+--------------------------------------------------------------------------------
+2025-11-07 05:22:08 - Prediction triggered for student_2021_sem_1
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: 
+--------------------------------------------------------------------------------
+2025-11-07 05:24:35 - Prediction triggered for student_2023_sem_2
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: 
+--------------------------------------------------------------------------------
+2025-11-07 05:25:57 - Prediction triggered for student_2024_sem_2
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: 
+--------------------------------------------------------------------------------
+2025-11-07 19:13:48 - Prediction triggered for student_2020_sem_1
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: 
+--------------------------------------------------------------------------------
+2025-11-07 19:40:49 - Prediction triggered for student_2021_sem_1
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: 
+--------------------------------------------------------------------------------
+======================================================================
+2025-11-07 20:42:05 - AUTO PREDICTION TRIGGERED
+Uploaded by: staff1 (testuser1)
+Table: student_2024_sem_1
+Records: 70
+----------------------------------------------------------------------
+Command: start /B cmd /c ""python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\predict.py" > nul 2>&1"
+Return code: 0
+Output: C:\Users\Christian Azores\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\Christian Azores\AppData\Local\Programs\Python\Python312\python.exe
+======================================================================
+
+2025-11-07 20:42:06 - Prediction triggered for student_2024_sem_1
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: C:\Users\Christian Azores\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\Christian Azores\AppData\Local\Programs\Python\Python312\python.exe
+--------------------------------------------------------------------------------
+======================================================================
+2025-11-07 21:09:15 - AUTO PREDICTION TRIGGERED
+Uploaded by: staff1 (testuser1)
+Table: student_2023_sem_1
+Records: 70
+----------------------------------------------------------------------
+Command: start /B cmd /c ""python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\predict.py" > nul 2>&1"
+Return code: 0
+Output: C:\Users\Christian Azores\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\Christian Azores\AppData\Local\Programs\Python\Python312\python.exe
+======================================================================
+
+2025-11-07 21:09:18 - Prediction triggered for student_2023_sem_1
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: C:\Users\Christian Azores\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\Christian Azores\AppData\Local\Programs\Python\Python312\python.exe
+--------------------------------------------------------------------------------
+======================================================================
+2025-11-08 01:09:07 - AUTO PREDICTION TRIGGERED
+Uploaded by: staff1 (testuser1)
+Table: student_2023_sem_2
+Records: 70
+----------------------------------------------------------------------
+Command: start /B cmd /c ""python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\predict.py" > nul 2>&1"
+Return code: 0
+Output: C:\Users\Christian Azores\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\Christian Azores\AppData\Local\Programs\Python\Python312\python.exe
+======================================================================
+
+2025-11-08 01:09:27 - Prediction triggered for student_2023_sem_2
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: C:\Users\Christian Azores\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\Christian Azores\AppData\Local\Programs\Python\Python312\python.exe
+--------------------------------------------------------------------------------
+======================================================================
+2025-11-08 01:21:57 - AUTO PREDICTION TRIGGERED
+Uploaded by: staff1 (testuser1)
+Table: student_2020_sem_2
+Records: 70
+----------------------------------------------------------------------
+Command: start /B cmd /c ""python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\predict.py" > nul 2>&1"
+Return code: 0
+Output: C:\Users\Christian Azores\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\Christian Azores\AppData\Local\Programs\Python\Python312\python.exe
+======================================================================
+
+2025-11-08 01:21:58 - Prediction triggered for student_2020_sem_2
+Command: start /B "python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP/predict.py" 2>&1
+Return code: 0
+Output: C:\Users\Christian Azores\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\Christian Azores\AppData\Local\Programs\Python\Python312\python.exe
+--------------------------------------------------------------------------------
+======================================================================
+2025-11-09 05:19:42 - AUTO PREDICTION TRIGGERED
+Uploaded by: staff1 (testuser1)
+Table: student_2020_sem_1
+Records: 70
+Request ID: 16
+----------------------------------------------------------------------
+Command: start /B cmd /c ""python" "C:\xampp\htdocs\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\SchoolFeesMgSystem-PHP\predict.py" > nul 2>&1"
+Python executable: python
+Return code: 0
+Output: C:\Users\Christian Azores\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\Christian Azores\AppData\Local\Programs\Python\Python312\python.exe
+======================================================================
+
+======================================================================
+2025-11-09 06:01:53 - AUTO PREDICTION TRIGGERED
+Uploaded by: staff1 (testuser1)
+Table: student_2023_sem_1 | Records: 70
+Python: py
+----------------------------------------------------------------------
+Method: popen | Status: SUCCESS
+SUCCESS: Prediction triggered via popen
+======================================================================
+

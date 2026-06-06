@@ -1,0 +1,13 @@
+**Database Name: ddss**
+
+
+
+**Login Details**
+
+ADMIN
+Username: admin
+Password: admin123
+
+USER
+Username: testuser1
+Password: testuser123

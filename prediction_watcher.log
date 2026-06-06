@@ -1,0 +1,59 @@
+[2025-11-06 23:24:24] [INFO] ================================================================================
+[2025-11-06 23:24:24] [INFO] 🔍 PREDICTION WATCHER STARTED
+[2025-11-06 23:24:24] [INFO] ================================================================================
+[2025-11-06 23:24:24] [INFO] Monitoring trigger file: C:\Users\Christian Azores\prediction_trigger.json
+[2025-11-06 23:24:24] [INFO] Prediction script: C:\Users\Christian Azores\predict.py
+[2025-11-06 23:24:24] [INFO] Check interval: 10 seconds
+[2025-11-06 23:24:24] [INFO] Log file: C:\Users\Christian Azores\prediction_watcher.log
+[2025-11-06 23:24:24] [INFO] ================================================================================
+[2025-11-06 23:24:24] [INFO] Waiting for upload completion triggers...
+[2025-11-06 23:39:59] [INFO] ======================================================================
+[2025-11-06 23:39:59] [INFO] 🔍 PREDICTION WATCHER STARTED
+[2025-11-06 23:39:59] [INFO] ======================================================================
+[2025-11-06 23:39:59] [INFO] Trigger file: C:\Users\Christian Azores\prediction_trigger.json
+[2025-11-06 23:39:59] [INFO] Prediction script: C:\Users\Christian Azores\predict.py
+[2025-11-06 23:39:59] [INFO] Check interval: 10s
+[2025-11-06 23:39:59] [INFO] Log file: C:\Users\Christian Azores\prediction_watcher.log
+[2025-11-06 23:39:59] [INFO] ======================================================================
+[2025-11-06 23:39:59] [INFO] Watching for triggers...
+[2025-11-07 07:17:21] [INFO] 
+👋 Watcher stopped by user
+[2025-11-07 07:31:40] [INFO] ======================================================================
+[2025-11-07 07:31:40] [INFO] 🔍 PREDICTION WATCHER STARTED
+[2025-11-07 07:31:40] [INFO] ======================================================================
+[2025-11-07 07:31:40] [INFO] Trigger file: C:\Users\Christian Azores\prediction_trigger.json
+[2025-11-07 07:31:40] [INFO] Prediction script: C:\Users\Christian Azores\predict.py
+[2025-11-07 07:31:40] [INFO] Check interval: 10s
+[2025-11-07 07:31:40] [INFO] Log file: C:\Users\Christian Azores\prediction_watcher.log
+[2025-11-07 07:31:40] [INFO] ======================================================================
+[2025-11-07 07:31:40] [INFO] Watching for triggers...
+[2025-11-07 21:42:34] [INFO] ======================================================================
+[2025-11-07 21:42:34] [INFO] 🔍 PREDICTION WATCHER STARTED
+[2025-11-07 21:42:34] [INFO] ======================================================================
+[2025-11-07 21:42:34] [INFO] Trigger file: C:\Users\Christian Azores\prediction_trigger.json
+[2025-11-07 21:42:34] [INFO] Prediction script: C:\Users\Christian Azores\predict.py
+[2025-11-07 21:42:34] [INFO] Check interval: 10s
+[2025-11-07 21:42:34] [INFO] Log file: C:\Users\Christian Azores\prediction_watcher.log
+[2025-11-07 21:42:34] [INFO] ======================================================================
+[2025-11-07 21:42:34] [INFO] Watching for triggers...
+[2025-11-07 21:59:24] [INFO] 
+👋 Watcher stopped by user
+[2025-11-09 11:12:47] [INFO] PID file created: C:\Users\Christian Azores\watcher.pid
+[2025-11-09 11:12:47] [INFO] ======================================================================
+[2025-11-09 11:12:47] [INFO] 🔍 PREDICTION WATCHER STARTED
+[2025-11-09 11:12:47] [INFO] ======================================================================
+[2025-11-09 11:12:47] [INFO] Working directory: C:\Users\Christian Azores
+[2025-11-09 11:12:47] [INFO] Trigger file: C:\Users\Christian Azores\prediction_trigger.json
+[2025-11-09 11:12:47] [INFO] Prediction script: C:\Users\Christian Azores\predict.py
+[2025-11-09 11:12:47] [INFO] Check interval: 5s
+[2025-11-09 11:12:47] [INFO] Python: C:\Users\Christian Azores\AppData\Local\Programs\Python\Python312\python.exe
+[2025-11-09 11:12:47] [INFO] PID: 27776
+[2025-11-09 11:12:47] [INFO] ======================================================================
+[2025-11-09 11:12:47] [INFO] ✅ All systems ready - watching for triggers...
+[2025-11-09 11:12:47] [INFO] Press Ctrl+C to stop
+
+[2025-11-09 11:13:42] [INFO] 
+👋 Received signal 2 - shutting down gracefully
+[2025-11-09 11:13:42] [INFO] PID file removed
+[2025-11-09 11:13:42] [INFO] 
+👋 Watcher stopped
