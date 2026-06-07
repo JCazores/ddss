@@ -12,22 +12,7 @@ DEFINE('DB_PORT', '58509');
 DEFINE('DB_NAME', 'railway');
 
 date_default_timezone_set('Asia/Manila');
-
-try {
-    $pdo = new PDO("mysql:host=".DB_HOST.";port=".DB_PORT.";dbname=".DB_NAME, DB_USER, DB_PSWD);
-    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-    
-    // Create mysqli-compatible wrapper
-    $conn = new class($pdo) {
-        public $pdo;
-        public $connect_error = null;
-        public function __construct($pdo) { $this->pdo = $pdo; }
-        public function query($sql) { return $this->pdo->query($sql); }
-        public function prepare($sql) { return $this->pdo->prepare($sql); }
-        public function real_escape_string($s) { return addslashes($s); }
-        public function close() {}
-    };
-} catch(Exception $e) {
-    die("Failed to connect database: " . $e->getMessage());
-}
+$conn = new mysqli(DB_HOST, DB_USER, DB_PSWD, DB_NAME, DB_PORT);
+if($conn->connect_error)
+    die("Failed to connect database " . $conn->connect_error);
 ?>
