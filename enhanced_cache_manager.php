@@ -127,7 +127,7 @@ class EnhancedCacheManager {
             
             // Check if individual data is too large
             if ($dataSize > $this->maxFileSize) {
-                error_log("Data too large for cache (${dataSize} bytes): $key");
+                error_log("Data too large for cache ({$dataSize} bytes): $key");
                 return false;
             }
             
