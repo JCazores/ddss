@@ -9,7 +9,7 @@ DEFINE('DB_USER', 'root');
 DEFINE('DB_PSWD', 'oCZnrPaBlUHwYSSosvPTWAFRnKiSwQJI');
 DEFINE('DB_HOST', 'acela.proxy.rlwy.net');
 DEFINE('DB_PORT', '58509');
-DEFINE('DB_NAME', 'railway');
+DEFINE('DB_NAME', 'ddss');
 
 date_default_timezone_set('Asia/Manila');
 $conn = new mysqli(DB_HOST, DB_USER, DB_PSWD, DB_NAME, DB_PORT);
